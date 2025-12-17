@@ -38,7 +38,7 @@ This work proposes a **closed-loop frequency augmentation** framework that:
 
 ### Pipeline figure
 
-![framework](.\figure\framework.png)
+![framework](./figure/framework.png)
 
 ---
 
